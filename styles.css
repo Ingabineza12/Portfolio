@@ -28,14 +28,14 @@ nav>ul>li>a{
     text-transform: uppercase;
     text-decoration:none;
     display: block;
-    color:rgb(13, 13, 34);
+    color:rgb(224, 223, 233);
 }
 nav>ul>li>a:hover{
     background-color: rgba(14, 27, 61, 0.678);
     color: rgba(179, 192, 184, 0.7)
 }
 #title{
-    color: rgb(13, 13, 34);
+    color: rgb(224, 224, 233);
     padding-top: 20px;
     text-align: center;
     padding-bottom: 35px;
