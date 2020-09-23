@@ -28,7 +28,7 @@ nav>ul>li>a{
     text-transform: uppercase;
     text-decoration:none;
     display: block;
-    color:rgb(224, 223, 233);
+    color:beige;
 }
 nav>ul>li>a:hover{
     background-color: rgba(14, 27, 61, 0.678);
@@ -84,4 +84,7 @@ a:hover{
     
     padding-top: 20px;
 
+}
+#projectPara{
+    padding-left: 10px;
 }
