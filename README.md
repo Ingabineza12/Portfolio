@@ -3,7 +3,7 @@
 ### Contributor:
 ###### Deborah Mugiraneza Ingabire
 
-Contributions are always welcome!
+Contributors are always welcome!
 
 ## Description
 This is a personal portfolio that gives description about me, what I do, my academic background, what I like(hobbies) and some of the works that I have done so far and my contacts are also included.
