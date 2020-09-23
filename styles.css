@@ -30,8 +30,8 @@ nav>ul>li>a{
     color:rgb(13, 13, 34);
 }
 nav>ul>li>a:hover{
-    background-color: rgba(247, 243, 240, 0.678);
-    color: rgba(18, 53, 30, 0.7)
+    background-color: rgba(14, 27, 61, 0.678);
+    color: rgba(179, 192, 184, 0.7)
 }
 #title{
     color: rgb(13, 13, 34);
@@ -40,16 +40,13 @@ nav>ul>li>a:hover{
     padding-bottom: 35px;
     font-size: 50px;
 }
-#first{
-    padding-top: 50px;
-    background-color: rgba(255,255,255, 0.5);
-    font-size: larger;
-}
-#third{
-    padding-top: 30px;
-    text-align: center;
-    font-size: larger;
-    color: rgb(215, 207, 223);
+img{
+    height: 450px;
+    width: 300px;
+    box-shadow: 5px 5px 5px grey;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 20px;
 }
 h2{
     text-align: center;
@@ -63,22 +60,27 @@ h2{
 }
 
 #about{
-    padding-top: 30px;
+    padding-top: 20px;
     color:black;
-    background-color: rgba(6, 6, 29, 0.5);
+    background-color:  rgba(255,255,255, 0.5);
     font-size: large;
 }
+#aboutPara{
+   padding-top: 80px;
+}
 a:hover{
-    background-color: cornsilk;
+    background-color: darkblue;
+    color:beige;
 }
 #contacts{
     text-align: center;
     font-weight: 600;
     padding-top: 80px;
     color:black;
-    background-color: rgba(255,255,255, 0.5)
+    background-color: rgba(255,255,255, 0.5);
 }
 #projects{
-    background-color: rgb(39, 145, 110);
+    background-color:  rgba(255,255,255, 0.5);
+    padding-top: 20px;
 
 }
