@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Contributor:
-##### By: Deborah Mugiraneza Ingabire
+###### Deborah Mugiraneza Ingabire
 
 Contributions are always welcome!
 
