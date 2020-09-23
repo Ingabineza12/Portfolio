@@ -11,7 +11,7 @@ This is a personal portfolio that gives description about me, what I do, my acad
 ## language used
 HTML && CSS
 
-## Setup/ installation requirements
+## Setup/installation requirements
 you need an internet
 a github account to access it
 now you can see the portfolio
