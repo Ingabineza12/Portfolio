@@ -16,6 +16,9 @@ you need an internet
 a github account to access it
 now you can see the portfolio
 
+## link to live page 
+ingabineza12.github.io/portfolio/
+
 ## License:
 
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
